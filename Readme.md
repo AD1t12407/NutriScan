@@ -1,6 +1,4 @@
-Here's the updated README with a section about the History page:
 
----
 
 # NutriScan
 
