@@ -16,10 +16,6 @@ NutriScan is a React Native mobile application that enables users to scan produc
 
 ## Screenshots
 
-## Screenshots
-
-## Screenshots
-
 | Splash Screen                                    | Scan Ingredients                               |
 |--------------------------------------------------|------------------------------------------------|
 | <img src="screenshots/Splash.png" width="100" /> | <img src="screenshots/Home.png" width="100" /> |
