@@ -45,7 +45,7 @@ NutriScan is a React Native mobile application that enables users to scan produc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/NutriScan.git
+   git clone https://github.com/AD1t12407/NutriScan.git
    ```
 2. Install dependencies:
    ```bash
