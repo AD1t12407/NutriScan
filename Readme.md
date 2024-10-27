@@ -16,9 +16,12 @@ NutriScan is a React Native mobile application that enables users to scan produc
 
 ## Screenshots
 
-| Home Screen                | Scan Ingredients            | History Page            |
-|----------------------------|-----------------------------|--------------------------|
-| *Insert Screenshot Here*   | *Insert Screenshot Here*    | *Insert Screenshot Here* |
+## Screenshots
+
+| Splash Screen                            | Scan Ingredients                          | 
+|------------------------------------------|-------------------------------------------|
+| ![Splash Screen](screenshots/Splash.png) | ![Scan Ingredients](screenshots/Home.png) |
+
 
 ## Tech Stack
 
@@ -59,10 +62,4 @@ NutriScan is a React Native mobile application that enables users to scan produc
    or scan the QR using Expo Go
 4. Scan the QR code displayed in the terminal with Expo Go on your device to launch the app.
 
-## License
 
-MIT License
-
---- 
-
-This README now includes a mention of the History page under the **Features** section and in **Screenshots**. Let me know if you need further customization!# Nutriscan
